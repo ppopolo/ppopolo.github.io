@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 	<head>
 		<meta charset="UTF-8" />
@@ -10,7 +10,7 @@
 	</head>
 	<body>
 
-</form>
+
 <div class="prpl-row">
 	<div class="prpl-column two-thirds">
 			<h1>Digital Health Applications</h1>
@@ -44,11 +44,11 @@
 	<div class="prpl-column one-third">
 		<img src="Slide5_medium.png" alt="App Screen Shots">
 	</div>
-</div class="prpl-row">
+
 
 <div id="ResearchProject"><h3>Mobile App Privacy Policy</h3>
 
-<p class="summary">Click to view Mobile App Privacy Policy: <a href="privacy.pdf">Privacy Policy</a></p class="summary">
+<p class="summary">Click to view Mobile App Privacy Policy: <a href="privacy.pdf">Privacy Policy</a>
 
 
 
@@ -56,5 +56,4 @@
 
 
 
-	</body>
-</html>
+
