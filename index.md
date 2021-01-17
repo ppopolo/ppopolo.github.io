@@ -16,7 +16,7 @@
 			<h1>Digital Health Applications</h1>
 	</div>
 	<div class="prpl-column one-third">
-		<img src="WebsiteHeader_cropped.png" alt="Website Banner" width="700" height="300">		
+		<img src="WebsiteHeader_cropped.png" alt="Website Banner" width="1400" height="600">		
 	</div>
 	<div class="prpl-column two-thirds">
 			<h2>Digital health technical consulting services</h2>
