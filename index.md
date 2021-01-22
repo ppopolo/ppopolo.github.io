@@ -6,6 +6,23 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
 
+		<title>Digital Health Applications</title>
+	</head>
+	<body>
+
+
+<div class="prpl-row">
+	<div class="prpl-column two-thirds">
+			<h1>Digital Health Applications</h1>
+	</div>
+	<div class="prpl-column one-third">
+		<img src="WebsiteHeader_cropped.png" alt="Website Banner">		
+	</div>
+	<div class="prpl-column two-thirds">
+			<h2>Digital health technical consulting services</h2>
+	</div>
+</div>
+
 <div id="New App Announcement"><h3>NEW Mobile App! MyVoice - Voice Recorder and Self-Rating Log</h3>
 
 <p class="summary">
