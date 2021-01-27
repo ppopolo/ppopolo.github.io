@@ -39,10 +39,10 @@
 
 <div class="prpl-row">
 	<div class="prpl-column one-third">
-		<img src="Slide4_medium.png" alt="App Screen Shots">
+		<img src="Screens4.png" alt="App Screen Shots">
 	</div>
 	<div class="prpl-column one-third">
-		<img src="Slide5_medium.png" alt="App Screen Shots">
+		<img src="AppStoreBadge.png" alt="App Screen Shots">
 	</div>
 
 
