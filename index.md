@@ -42,7 +42,7 @@
 		<img src="Screens4.png" alt="App Screen Shots">
 	</div>
 	<div class="prpl-column one-third">
-		<img src="AppStoreBadge.png" alt="App Screen Shots">
+		<img src="AppStoreBadge_small.png" alt="App Screen Shots">
 	</div>
 
 
