@@ -33,7 +33,7 @@
 
 <p>Additional features and functionality include the ability to set and store a daily reminder to start a session,  and a spreadsheet view of the log file of all your stored  results.</p>
 
-<p>For more information, please contact <a href = "mailto:peterpopolo@gmail.com?subject = Contact">Peter S. Popolo</a></p>
+<p>For more information, please contact <a href = "mailto:peterpopolo@gmail.com?subject = Contact">Peter S. Popolo.</a></p>
 
 <p class="summary">
 
