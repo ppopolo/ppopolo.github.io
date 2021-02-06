@@ -19,4 +19,4 @@
 
 <p><a href="./MSUVoiceLog.html">MSU Voice Log</a></p>
 
-[Home](./)
+
