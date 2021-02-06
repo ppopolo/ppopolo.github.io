@@ -16,6 +16,8 @@
 			<h1>Digital Health Applications</h1>
 	</div>
 
+<p><a href="./about.html">About</a>.</p>
+
 <p><b><font face="Garamond"><font color="#3300FF"><font size=+1><a href="about.html" target="main">
 About</a></font></font></font></b>
 
