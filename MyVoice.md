@@ -46,7 +46,7 @@
 
 <p class="summary">Click to view Mobile App Privacy Policy: <a href="privacy.pdf">Privacy Policy</a>
 	
-<p><a href="#" onclick="history.go(-1)">Back</a></>
+<p><a href="#" onclick="history.go(-1)">Back</a></p>
 
 
 
