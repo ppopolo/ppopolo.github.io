@@ -10,6 +10,20 @@
 	</head>
 	<body>
 
+<div class="prpl-row">
+	<div class="prpl-column two-thirds">
+			<h1>Digital Health Applications</h1>
+	</div>
+	
+	<p><a href="./">Home</a>
+	&nbsp;&nbsp;
+	<a href="./latest.html">Latest Apps</a>
+	&nbsp;&nbsp;
+	<a href="./about.html">About</a>
+	&nbsp;&nbsp;
+	<a href="./contactInfo.html">Contact</a></p>
+	
+</div>
 
 <div class="prpl-row">
 	<div class="prpl-column two-thirds">
@@ -41,7 +55,7 @@
 
 <p class="summary">Click to view Mobile App Privacy Policy: <a href="MSU-privacy.pdf">Privacy Policy</a>
 	
-<p><a href="#" onclick="history.go(-1)">Go Back</a></p>
+<p><a href="./latest.html">Latest Apps>>Go Back</a></p>
 
 
 
