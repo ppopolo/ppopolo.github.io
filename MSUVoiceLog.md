@@ -29,8 +29,6 @@
 
 <p>For more information, please contact Peter S. Popolo by email at peterpopolo@gmail.com</p>
 
-<a href="./">Home</a>
-
 <p class="summary">
 
 <div class="prpl-row">
@@ -42,6 +40,8 @@
 <div id="ResearchProject"><h3>Mobile App Privacy Policy</h3>
 
 <p class="summary">Click to view Mobile App Privacy Policy: <a href="MSU-privacy.pdf">Privacy Policy</a>
+	
+<a href="./">Home</a>
 
 
 
