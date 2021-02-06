@@ -9,6 +9,21 @@
 		<title>Digital Health Applications</title>
 	</head>
 	<body>
+	
+<div class="prpl-row">
+	<div class="prpl-column two-thirds">
+			<h1>Digital Health Applications</h1>
+	</div>
+	
+	<p><a href="./">Home</a>
+	&nbsp;&nbsp;
+	<a href="./latest.html">Latest Apps</a>
+	&nbsp;&nbsp;
+	<a href="./about.html">About</a>
+	&nbsp;&nbsp;
+	<a href="./contactInfo.html">Contact</a></p>
+	
+</div>
 
 <div class="prpl-row">
 	<div class="prpl-column two-thirds">
