@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+
+		<title>Digital Health Applications</title>
+	</head>
+	<body>
+
+</form>
+<div class="prpl-row">
+	<div class="prpl-column two-thirds">
+			<h1>Digital Health Applications</h1>
+	</div>
+
+<p><b><font face="Garamond"><font color="#3300FF"><font size=+1><a href="about.html" target="main">
+About</a></font></font></font></b>
+
+<p><b><font face="Garamond"><font color="#3300FF"><font size=+1><a href="contactInfo.html" target="main">
+Contact</a></font></font></b>
+
+	<div class="prpl-column one-third">
+		<img src="WebsiteHeader_cropped.png" alt="Website Banner">		
+	</div>
+	<div class="prpl-column two-thirds">
+			<h2>Digital health technical consulting services</h2>
+	</div>
+</div>
+
+<div id="New App Announcement"><h3>NEW Mobile App! MyVoice - Voice Recorder and Self-Rating Log</h3>
+
+<p class="summary">
+
+<p>There is a need for persons receiving voice therapy to keep track of voice quality each day between therapy sessions. With this app users can self-rate their voice and log their ratings daily, using a protocol adapted from the National Spasmodic Dysphonia Association (NSDA).</p> 
+
+<p>The app is also designed to allow users to easily record voice samples each day. The recordings and self-ratings log file can be sent to your email account using a built-in send email feature, to access them by computer.</p>
+
+<p>Additional features and functionality include the ability to set and store a daily reminder to start a session,  and a spreadsheet view of the log file of all your stored  results.</p>
+
+<p>For more information, please contact Peter S. Popolo by email at peterpopolo@gmail.com</p>
+
+<p class="summary">
+
+<div class="prpl-row">
+	<div class="prpl-column one-third">
+		<img src="Slide4_medium.png" alt="App Screen Shots">
+	</div>
+	<div class="prpl-column one-third">
+		<img src="Slide5_medium.png" alt="App Screen Shots">
+	</div>
+</div class="prpl-row">
+
+<div id="ResearchProject"><h3>Mobile App Privacy Policy</h3>
+
+<p class="summary">Click to view Mobile App Privacy Policy: <a href="privacy.pdf">Privacy Policy</a></p class="summary">
+
+
+
+
+
+
+
+	</body>
+</html>
