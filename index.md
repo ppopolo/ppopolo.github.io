@@ -17,6 +17,7 @@
 	</div>
 	
 	<p><a href="./">Home</a>
+	&nbsp;&nbsp;
 	<a href="./latest.html">Latest Apps</a>
 	&nbsp;&nbsp;
 	<a href="./about.html">About</a>
