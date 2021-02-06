@@ -29,6 +29,8 @@
 
 <p>For more information, please contact Peter S. Popolo by email at peterpopolo@gmail.com</p>
 
+<a href="./">Home</a>
+
 <p class="summary">
 
 <div class="prpl-row">
