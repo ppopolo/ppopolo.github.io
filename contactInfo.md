@@ -22,7 +22,7 @@
 
 <p>YES! I would like to get a quote from Digitalhealthapplications.com to create a custom app for my research project. Let's set up a day and time to discuss my specific needs and requirements.</p>
 
-<p>Send email to <a href="mailto:peterpopolo@gmail.com?subject=Request a quote"> Peter S. Popolo</a></p>
+<p>Send email to <a href="mailto:peterpopolo@gmail.com?subject=Request a quote&body=YES! I would like to get a quote from Digitalhealthapplications.com to create a custom app for my research project. Let's set up a day and time to discuss my specific needs and requirements."> Peter S. Popolo</a></p>
 
 </div>
 	
