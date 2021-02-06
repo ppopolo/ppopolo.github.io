@@ -5,4 +5,4 @@
 
 <p><a href="./MSUVoiceLog.html">MSU Voice Log</a></p>
 
-[back](./)
+<a href="./">Home</a>
