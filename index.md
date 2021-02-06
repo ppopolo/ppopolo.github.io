@@ -17,6 +17,7 @@
 	</div>
 	
 	<p><a href="./about.html">About</a>
+	&nbsp;&nbsp;
 	<a href="./contactInfo.html">Contact</a></p>
 	
 	<div class="prpl-column one-third">
