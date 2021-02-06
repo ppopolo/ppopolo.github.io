@@ -38,11 +38,11 @@
 	</div>
 	<div class="prpl-column one-third">
 		<a href="https://apps.apple.com/us/app/myvoice-self-rating-log/			id1548589082">
-		<img src="AppStoreBadge_small.png" alt="App Screen Shots"></img></a>
+		<img src="AppStoreBadge_small.png" alt="App Screen Shots"></a>
 	</div>
 
 
-<div id="ResearchProject"><h3>Mobile App Privacy Policy</h3>
+<div id="Privacy Policy"><h3>Mobile App Privacy Policy</h3>
 
 <p class="summary">Click to view Mobile App Privacy Policy: <a href="privacy.pdf">Privacy Policy</a>
 
