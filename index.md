@@ -16,7 +16,8 @@
 			<h1>Digital Health Applications</h1>
 	</div>
 	
-	<p><a href="./about.html">About</a></p>
+	<p><a href="./about.html">About</a>
+	<a href="./contactinfo.html">Contactt</a></p>
 	
 	<div class="prpl-column one-third">
 		<img src="WebsiteHeader.png" alt="Website Banner" width="1600"/>		
