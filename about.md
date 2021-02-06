@@ -28,6 +28,8 @@
 <div class="prpl-row">
 	<div class="prpl-column two-thirds">
 			<h1>About Digitalhealthapplications.com</h1>
+		
+## About Digitalhealthapplications.com
 
 <p style="text-align:justify">Back when I was a newly-minted academic researcher, I had a line item in my start-up budget to pay a CS student to turn my idea for an iPhone app to support an evidence-based clinical study into reality. With the ability to pay a programmer $6K ($20/hour for 20 hours/week for 15 weeks), I thought students would be lining up at my door to claim this attractive stipend. What I learned, however, was that there were no students either at my institution or at neighboring ones that had the skills required to perform the task. When I spoke to an assistant dean about not being able to spend my startup funds, she actually put me in touch with her husband who worked at a NYC-based firm that developed medical software products to help me solve this problem, but there were no mechanisms in place for his company to contract their services to our academic institution in a cost-effective and timely manner.</p>
 
