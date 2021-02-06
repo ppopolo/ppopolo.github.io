@@ -6,14 +6,14 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
 
-		<title>MyVoice App</title>
+		<title>MSU Voice Log</title>
 	</head>
 	<body>
 
 
 <div class="prpl-row">
 	<div class="prpl-column two-thirds">
-			<h1>MyVoice App</h1>
+			<h1>MSUVoiceLog App</h1>
 	</div>
 
 </div>
