@@ -41,7 +41,7 @@
 
 <p class="summary">Click to view Mobile App Privacy Policy: <a href="MSU-privacy.pdf">Privacy Policy</a>
 	
-<a href="./">Home</a>
+<p><a href="#" onclick="history.go(-1)">Go Back</a></p>
 
 
 
