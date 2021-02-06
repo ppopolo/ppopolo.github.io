@@ -17,7 +17,7 @@
 	</div>
 	
 	<p><a href="./about.html">About</a>
-	<a href="./contactinfo.html">Contactt</a></p>
+	<a href="./contactinfo.html">Contact</a></p>
 	
 	<div class="prpl-column one-third">
 		<img src="WebsiteHeader.png" alt="Website Banner" width="1600"/>		
