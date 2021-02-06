@@ -16,9 +16,9 @@
 			<h1>Digital Health Applications</h1>
 	</div>
 	
-	<p><a href="./latest.html">About</a>
+	<p><a href="./latest.html">Latest Apps</a>
 	&nbsp;&nbsp;
-	<p><a href="./about.html">About</a>
+	<a href="./about.html">About</a>
 	&nbsp;&nbsp;
 	<a href="./contactInfo.html">Contact</a></p>
 	
