@@ -26,7 +26,7 @@
 
 </div>
 
-[back](./)
+<a href="./">Home</a>
 	
 <div class="prpl-column one-third">
 	<div class="prpl-column two-thirds">
