@@ -27,7 +27,6 @@
 
 <div class="prpl-row">
 	<div class="prpl-column two-thirds">
-			<h1>About Digitalhealthapplications.com</h1>
 		
 ## About Digitalhealthapplications.com
 
