@@ -15,6 +15,9 @@
 	<div class="prpl-column two-thirds">
 			<h1>Digital Health Applications</h1>
 	</div>
+	
+	<p><a href="./about.md">About</a></p>
+	
 	<div class="prpl-column one-third">
 		<img src="WebsiteHeader.png" alt="Website Banner" width="1600"/>		
 	</div>
