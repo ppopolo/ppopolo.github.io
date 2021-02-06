@@ -16,14 +16,6 @@
 			<h1>Digital Health Applications</h1>
 	</div>
 
-<p><a href="./about.html">About</a>.</p>
-
-<p><b><font face="Garamond"><font color="#3300FF"><font size=+1><a href="about.html" target="main">
-About</a></font></font></font></b>
-
-<p><b><font face="Garamond"><font color="#3300FF"><font size=+1><a href="contactInfo.html" target="main">
-Contact</a></font></font></b>
-
 	<div class="prpl-column one-third">
 		<img src="WebsiteHeader_cropped.png" alt="Website Banner">		
 	</div>
