@@ -17,11 +17,11 @@
 	</div>
 	
 	<p><a href="./">Home</a>
-	&nbsp;&nbsp;;&nbsp
+	&nbsp;&nbsp;&nbsp
 	<a href="./latest.html">Latest Apps</a>
-	&nbsp;&nbsp;;&nbsp
+	&nbsp;&nbsp;&nbsp
 	<a href="./about.html">About</a>
-	&nbsp;&nbsp;;&nbsp
+	&nbsp;&nbsp;&nbsp
 	<a href="./contactInfo.html">Contact</a></p>
 	
 	<div class="prpl-column one-third">
