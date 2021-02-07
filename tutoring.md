@@ -39,7 +39,7 @@
 	<p><b>Qualifications:</b></p> 
 	<ul>
   		<li>Ph.D., published author, university instructor with STEM, Humanities & Social Sciences, and Health Sciences backgrounds</li>
-		<li>GRE = 1410 (323), MS: 3.4 GPA, BS: 3.842 GPA, HS Valedictorian, SAT = 1280</li>
+		<li>GRE = 1410 (323), SAT = 1280, MS: 3.4 GPA, BS: 3.842 GPA, HS Valedictorian</li>
 	</ul>
 	<p><b>What I offer:</b></p> 
 	<ul>
