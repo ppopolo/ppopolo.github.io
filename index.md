@@ -51,7 +51,7 @@
 		<img src="Screens4.png" alt="App Screen Shots">
 	</div>
 	<div class="prpl-column one-third">
-		<a href = "https://apps.apple.com/us/app/myvoice-self-rating-log/id1548589082">
+		<a href = "https://apps.apple.com/us/app/myvoice-self-rating-log/id1548589082" target="_blank">
 		<img src="AppStoreBadge_small.png" alt="Download on the App Store"></a>
 	</div>
 
