@@ -53,7 +53,7 @@
 	</div>
 	<div class="prpl-column one-third">
 		<a href="https://apps.apple.com/us/app/myvoice-self-rating-log/			id1548589082">
-		<img src="AppStoreBadge_small.png" alt="App Screen Shots"></a>
+		<img src="AppStoreBadge_small.png" alt="Download on the App Store"></a>
 	</div>
 
 
