@@ -28,7 +28,7 @@
 	<div class="prpl-column one-third">
 	
   			<img src="cropped-beach-at-stromboli3.jpg" alt="Beach at Stromboli" width="1600"/>
-  			<footer><small>&#169; 2021 Peter S. Popolo</small></footer>
+  			<small>&#169; 2021 Peter S. Popolo</small>
 
 	</div>
 	<div class="prpl-column two-thirds">
