@@ -27,7 +27,8 @@
 	<a href="./contactInfo.html">Contact</a></p>
 	
 	<div class="prpl-column one-third">
-		<img src="WebsiteHeader.png" alt="Website Banner" width="1600"/>		
+		<img src="WebsiteHeader.png" alt="Website Banner" width="1600"/>
+		<p style="text-align:right"><small>&#169; 2021 Peter S. Popolo</small></p>
 	</div>
 	<div class="prpl-column two-thirds">
 			<h2>Digital health technical consulting services</h2>
@@ -51,6 +52,7 @@
 <div class="prpl-row">
 	<div class="prpl-column one-third">
 		<img src="Screens4.png" alt="App Screen Shots">
+		<p style="text-align:right"><small>&#169; 2021 Peter S. Popolo</small></p>
 	</div>
 	<div class="prpl-column one-third">
 		<a href = "https://apps.apple.com/us/app/myvoice-self-rating-log/id1548589082" target="_blank">
