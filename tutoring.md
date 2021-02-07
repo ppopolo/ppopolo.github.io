@@ -26,7 +26,7 @@
 	
 	<div class="prpl-column one-third">
 	
-  			<img src="Scan.jpeg" alt="Grand Teton" width="1600"/>
+  			<img src="Scan_cropped.jpeg" alt="Grand Teton" width="1600"/>
   			<p style="text-align:right"><small>&#169; 2021 Peter S. Popolo</small></p>
 
 	</div>
@@ -78,7 +78,7 @@
 
 </div>
 
-<p>Contact <a href="mailto:peterpopolo@gmail.com?subject=Contact"> Peter S. Popolo</a></p>
+<p>Contact <a href="mailto:peterpopolo@gmail.com?subject=Tutoring inquiry"> Peter S. Popolo</a>to inquire about tutoring today!</p>
 
 <a href="./">Home</a>
 
