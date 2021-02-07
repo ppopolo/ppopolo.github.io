@@ -36,3 +36,17 @@
 </div>
 
 <div class="prpl-row">
+	
+
+
+
+</div>
+
+<p style="text-align:justify"><!- -></p> 
+
+<p>Contact <a href="mailto:peterpopolo@gmail.com?subject=Contact"> Peter S. Popolo</a></p>
+
+<a href="./">Home</a>
+
+<br><br><p><small>&#169; 2021 Peter S. Popolo. All rights reserved.</small></p>
+
