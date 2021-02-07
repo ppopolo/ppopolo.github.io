@@ -27,6 +27,11 @@
 	
 	<div class="prpl-column one-third">
 		<img src="cropped-beach-at-stromboli3.jpg" alt="Beach at Stromboli" width="1600"/>		
+	
+		<figure>
+  			<img src="cropped-beach-at-stromboli3.jpg" alt="Beach at Stromboli" width="1600"/>
+  			<footer><small><&#169; 2021 Peter S. Popolo></small></footer>
+		</figure>
 	</div>
 	<div class="prpl-column two-thirds">
 			<h2>About Digitalhealthapplications.com</h2>
