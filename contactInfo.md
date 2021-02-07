@@ -46,7 +46,7 @@
 		<img src="bizcard.png" alt="bizcard"/>		
 	</div>
 	
-<a href="./latest.html">Back</a>
+<a href="./">Home</a>
 
 </div>
 
