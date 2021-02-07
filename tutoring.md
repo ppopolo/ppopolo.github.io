@@ -39,6 +39,7 @@
 	<p><b>Qualifications:</b></p> 
 	<ul>
   		<li>Ph.D., published author, university instructor with STEM, Humanities & Social Sciences, and Health Sciences backgrounds</li>
+		<li>MS: 3.4 GPA, BS: 3.842 GPA, HS Valedictorian, SAT = 1280, GRE = 1410 (323)</li>
 	</ul>
 	<p><b>What I offer:</b></p> 
 	<ul>
@@ -69,7 +70,7 @@
 	<ul>
 		<li>Includes LIVE on-line instruction, unlimited practise test analysis, virtual test-day experience</li>
 	<ul style="padding-left:20px">
-  		<li>Option 1: 18-hr Package for $525 ($29.17/hr) - BEST VALUE!</li>
+  		<li>Option 1: 18-hr Package Deal for $525 ($29.17/hr) - BEST VALUE!</li>
 		<li>Option 2: Individual or additional hours: $34/hr</li>
 	</ul></ul>
 	
