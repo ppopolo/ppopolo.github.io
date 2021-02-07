@@ -22,9 +22,9 @@
 	&nbsp;&nbsp;
 	<a href="./about.html">About</a>
 	&nbsp;&nbsp;
-	 <! -- Do not display at the moment
+	<! -- Do not display at the moment
 	 <a href="https://www.researchgate.net/profile/Peter_Popolo/research" target="_blank">Research</a> 
-	 -->
+	-->
 	&nbsp;&nbsp;
 	<a href="./contactInfo.html">Contact</a></p>
 	
