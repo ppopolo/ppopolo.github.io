@@ -36,11 +36,11 @@
 </div>
 
 <div class="prpl-row">
-	<p><b><Qualifications:></b></p> 
+	<p><b>Qualifications:</b></p> 
 	<ul>
   		<li>Ph.D., published author, university instructor with STEM, Humanities & Social Sciences, and Health Sciences backgrounds</li>
 	</ul>
-	<p><b><What I offer:></b></p> 
+	<p><b>What I offer:</b></p> 
 	<ul>
   		<li>Straight-forward, test-taking strategy & psychology, content-mastery, adaptive teaching techniques</li>
 	</ul>
@@ -49,6 +49,7 @@
 	<ul>
   		<li>Calculus</li>
 		<li>Linear Algebra</li>
+		<li>Computer Science</li>
 		<li>Physics (for Health Sciences as well as Engineering majors)</li>
 		<li>Human Anatomy & Physiology</li>
 		<li>Neuroscience</li>
@@ -56,13 +57,16 @@
 	<p><b>Standardized Test Prep:</b></p>
 	<ul>
 		<li>GRE (Quantitative and Verbal Reasoning</li>
-		<li><SAT and PSAT></li>
-		<li><SAT Subject Tests:></li>
+		<li>SAT and PSAT</li>
+		<li>SAT Subject Tests:</li>
 	</ul>
 	<ul style="padding-left:20px">
     		<li>Math Level 1</li>
     		<li>Math Level 2</li>
 		<li>Physics</li>
+	</ul>
+	<ul>
+		<li>Praxis exams for Allied Health careers </li>
 	</ul>
 
 </div>
