@@ -36,15 +36,36 @@
 </div>
 
 <div class="prpl-row">
+	<p><b><Qualifications:></b></p> 
 	<ul>
-  		<li>Ph.D., published author, university instructor with STEM, Humanities & Social Sciences, Health Sciences, and English Composition/Literature backgrounds</li>
+  		<li>Ph.D., published author, university instructor with STEM, Humanities & Social Sciences, and Health Sciences backgrounds</li>
+	</ul>
+	<p><b><What I offer:></b></p> 
+	<ul>
   		<li>Straight-forward, test-taking strategy & psychology, content-mastery, adaptive teaching techniques</li>
-  		<li>Ask about individual subjects (Calculus, Algebra, Physics, Computer Science) and other standardized tests (incl. PRAXIS), too!</li>
+	</ul>
+	
+	<p><b>Subject areas taught:</b></p>
+	<ul>
+  		<li>Calculus</li>
+		<li>Linear Algebra</li>
+		<li>Physics (for Health Sciences as well as Engineering majors)</li>
+		<li>Human Anatomy & Physiology</li>
+		<li>Neuroscience</li>
+	</ul>
+	<p><b>Standardized Test Prep:</b></p>
+	<ul>
+		<li>GRE (Quantitative and Verbal Reasoning</li>
+		<li><SAT and PSAT></li>
+		<li><SAT Subject Tests:></li>
+	</ul>
+	<ul style="padding-left:20px">
+    		<li>Math Level 1</li>
+    		<li>Math Level 2</li>
+		<li>Physics</li>
 	</ul>
 
 </div>
-
-<p style="text-align:justify"><! - -></p> 
 
 <p>Contact <a href="mailto:peterpopolo@gmail.com?subject=Contact"> Peter S. Popolo</a></p>
 
