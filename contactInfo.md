@@ -33,8 +33,6 @@
 	</div>
 </div>
 
-<div class="prpl-row>
-
 <p>TO: Digitalhealthapplications.com</p>
 
 <p>FROM: Your email address goes here</p>
