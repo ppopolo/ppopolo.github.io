@@ -18,11 +18,11 @@
 	
 	<p><a href="./">Home</a>
 	&nbsp;&nbsp;
-	<a href="./latest.html">Latest Apps</a>
+	<a href="./latest.html">Apps</a>
 	&nbsp;&nbsp;
 	<a href="./about.html">About</a>
 	&nbsp;&nbsp;
-	<a href="https://www.researchgate.net/profile/Peter_Popolo/research" target="_blank">Research</a>
+	<a href="./tutoring.html>Tutoring</a>
 	&nbsp;&nbsp;
 	<a href="./contactInfo.html">Contact</a></p>
 	
