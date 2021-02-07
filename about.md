@@ -26,7 +26,7 @@
 	<a href="./contactInfo.html">Contact</a></p>
 	
 	<div class="prpl-column one-third">
-		<img src="cropped-beach-at-stromboli3" alt="Website Banner" width="1600"/>		
+		<img src="cropped-beach-at-stromboli3.jpg" alt="Beach at Stromboli" width="1600"/>		
 	</div>
 	<div class="prpl-column two-thirds">
 			<h2>About Digitalhealthapplications.com</h2>
