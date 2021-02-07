@@ -43,7 +43,7 @@
 	</ul>
 	<p><b>What I offer:</b></p> 
 	<ul>
-  		<li>Straight-forward, personalized instruction in test-taking strategy and content-mastery, using adaptive teaching techniques.</li>
+  		<li>Straight-forward, personalized instruction in test-taking strategy and content mastery, using adaptive teaching techniques.</li>
 	</ul>
 	
 	<p><b>Subject areas taught:</b></p>
