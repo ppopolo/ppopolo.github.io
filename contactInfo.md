@@ -45,6 +45,9 @@
 	<div class="prpl-column two-thirds">
 		<img src="bizcard.png" alt="bizcard"/>		
 	</div>
+	
+<a href="./latest.html">Back</a>
+
 </div>
 
 
