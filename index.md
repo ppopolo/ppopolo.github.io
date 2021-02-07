@@ -17,11 +17,13 @@
 	</div>
 	
 	<p><a href="./">Home</a>
-	&nbsp;&nbsp;&nbsp;
+	&nbsp;&nbsp;
 	<a href="./latest.html">Latest Apps</a>
-	&nbsp;&nbsp;&nbsp;
+	&nbsp;&nbsp;
 	<a href="./about.html">About</a>
-	&nbsp;&nbsp;&nbsp;
+	&nbsp;&nbsp;
+	<a href="https://www.researchgate.net/profile/Peter_Popolo/research" target="_blank">Research</a>
+	&nbsp;&nbsp;
 	<a href="./contactInfo.html">Contact</a></p>
 	
 	<div class="prpl-column one-third">
