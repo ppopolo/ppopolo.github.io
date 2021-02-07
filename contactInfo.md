@@ -26,7 +26,8 @@
 	<a href="./contactInfo.html">Contact</a></p>
 	
 	<div class="prpl-column one-third">
-		<img src="bizcard.png" alt="Website Banner" width="1600"/>		
+		<img src="bizcard.png" alt="Website Banner" width="1600"/>
+		<p style="text-align:right"><small>&#169; 2021 Peter S. Popolo</small></p>
 	</div>
 	<div class="prpl-column two-thirds">
 			<h2>Contact Digitalhealthapplications.com about your custom app requirements today!</h2>
