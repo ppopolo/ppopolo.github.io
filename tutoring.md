@@ -57,7 +57,7 @@
 	</ul>
 	<p><b>Standardized Test Prep:</b></p>
 	<ul>
-		<li>GRE (Quantitative and Verbal Reasoning</li>
+		<li>GRE (Quantitative and Verbal Reasoning)</li>
 		<li>SAT and PSAT</li>
 		<li>SAT Subject Tests:</li>
 	<ul style="padding-left:20px">
