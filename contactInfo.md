@@ -9,7 +9,7 @@
 		<title>Digital Health Applications</title>
 	</head>
 	<body>
-	
+
 <div class="prpl-row">
 	<div class="prpl-column two-thirds">
 			<h1>Digital Health Applications</h1>
@@ -25,17 +25,12 @@
 	&nbsp;&nbsp;
 	<a href="./contactInfo.html">Contact</a></p>
 	
-</div>
-
-<div class="prpl-row">
+	<div class="prpl-column one-third">
+		<img src="bizcard.png" alt="Website Banner" width="1600"/>		
+	</div>
 	<div class="prpl-column two-thirds">
 			<h2>Contact Digitalhealthapplications.com about your custom app requirements today!</h2>
-		
-		<div class="prpl-column one-third">
-	<div class="prpl-column two-thirds">
-		<img src="bizcard.png" alt="bizcard"/>		
 	</div>
-	
 </div>
 
 <p>TO: Digitalhealthapplications.com</p>
