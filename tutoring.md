@@ -64,6 +64,15 @@
     		<li>Math Level 2</li>
 		<li>Physics</li>
 	</ul></ul>
+	
+	<p><b>Sample Rates: GRE Prep</b></p>
+	<ul>
+		<li>Includes LIVE on-line instruction, unlimited practise test analysis, virtual test-day experience</li>
+	<ul style="padding-left:20px">
+  		<li>Option 1: 18-hr Package for $525 ($29.17/hr) - BEST VALUE!</li>
+		<li>Option 2: Individual or additional hours: $34/hr</li>
+	</ul></ul>
+	
 	<p>Ask about Praxis exams for Allied Health careers!</p>
 
 </div>
