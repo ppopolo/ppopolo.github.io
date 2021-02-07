@@ -14,7 +14,8 @@
 	<a href="./contactInfo.html">Contact</a></p>
 	
 	<div class="prpl-column one-third">
-		<img src="IMG_0030_med.jpg" alt="Campagna Sampere" width="1600"/>		
+		<img src="IMG_0030_med.jpg" alt="Campagna Sampere" width="1600"/>
+		<p style="text-align:right"><small>&#169; 2021 Peter S. Popolo</small></p>
 	</div>
 	<div class="prpl-column two-thirds">
 			<h2>Latest Apps from Digitalhealthapplications.com</h2>
