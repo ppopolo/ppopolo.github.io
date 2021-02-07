@@ -41,6 +41,7 @@
 		<img src="psp.jpg" alt="psp"/>		
 	</div>
 	<div class="prpl-column two-thirds">
+		 <h1>Peter S. Popolo, Ph.D.</h1>
 			<h2>Digital health technical consulting services</h2>
 	</div>
 </div>
