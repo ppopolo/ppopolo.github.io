@@ -70,7 +70,7 @@
 	<ul>
 		<li>Includes LIVE on-line instruction, unlimited practice test analysis, virtual test-day experience</li>
 	<ul style="padding-left:20px">
-  		<li>Option 1: 18-hr Package Deal for $525 ($29.17/hr) - BEST VALUE!</li>
+  		<li>Option 1: 18-hr Package Deal for $549 ($30.50/hr) - BEST VALUE!</li>
 		<li>Option 2: Individual or additional hours: $34/hr</li>
 	</ul></ul>
 	
