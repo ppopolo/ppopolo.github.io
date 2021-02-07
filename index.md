@@ -58,7 +58,7 @@
 	</div>
 
 
-<div id="ResearchProject"><h3>Mobile App Privacy Policy</h3>
+<div id="Mobile App Privacy Policy"><h3>Mobile App Privacy Policy</h3>
 
 <p class="summary">Click to view Mobile App Privacy Policy: <a href="privacy.pdf" target="_blank">Privacy Policy</a>
 
