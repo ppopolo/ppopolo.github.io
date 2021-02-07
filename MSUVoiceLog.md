@@ -53,7 +53,7 @@
 
 <div id="ResearchProject"><h3>Mobile App Privacy Policy</h3>
 
-<p class="summary">Click to view Mobile App Privacy Policy: <a href="MSU-privacy.pdf">Privacy Policy</a>
+<p class="summary">Click to view Mobile App Privacy Policy: <a href="MSU-privacy.pdf"target="_blank">>Privacy Policy</a>
 	
 <p><a href="./latest.html">Back</a></p>
 
