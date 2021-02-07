@@ -26,7 +26,7 @@
 	
 	<div class="prpl-column one-third">
 	
-  			<img src="Scan_cropped.jpeg" alt="Grand Teton" width="1600"/>
+  			<img src="Scan_cropped.jpg" alt="Grand Teton" width="1600"/>
   			<p style="text-align:right"><small>&#169; 2021 Peter S. Popolo</small></p>
 
 	</div>
