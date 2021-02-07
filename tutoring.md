@@ -35,9 +35,9 @@
 	</div>
 </div>
 
-<div class="prpl-row"><!- -></div>
+<div class="prpl-row"><! - -></div>
 
-<p style="text-align:justify"><!- -></p> 
+<p style="text-align:justify"><! - -></p> 
 
 <p>Contact <a href="mailto:peterpopolo@gmail.com?subject=Contact"> Peter S. Popolo</a></p>
 
