@@ -62,9 +62,8 @@
 
 <a href="./">Home</a>
 
-<footer>
-	<p><small>&#169; 2021 Peter S. Popolo. All rights reserved.</small></p>
-</footer>
+<p><small>&#169; 2021 Peter S. Popolo. All rights reserved.</small></p>
+
 
 
 
