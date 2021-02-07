@@ -26,6 +26,6 @@
 
 <p><a href="./MSUVoiceLog.html">MSU Voice Log</a></p>
 
-<a href="./">Home</a>
+<a href="./">Home</a> 
 
 <small>&#169; 2021 Peter S. Popolo. All rights reserved.</small>
