@@ -59,9 +59,7 @@
 	
 <p><a href="./latest.html">Back</a></p>
 
-<footer>
-    <small>&#169; 2021 Peter S. Popolo. All rights reserved.</small>
-</footer>
+<br><br><p><small>&#169; 2021 Peter S. Popolo. All rights reserved.</small></p>
 
 
 
