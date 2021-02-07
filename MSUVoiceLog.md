@@ -43,7 +43,7 @@
 <p>This app can be used by individuals to track voice and daily behaviors for their own review. However, it is also intended to allow researchers the ability to look at large groups of people in terms of their voice use and daily behaviors to better understand factors that cause voice problems. For this purpose, the app sends your daily response log to a researcher at Michigan State University who compiles the data for scientific purposes.</p>
 
 
-<p>For information about the app, please contact Peter S. Popolo (app developer) by email at peterpopolo@gmail. For information about the research project and data collection, contact Jeff Searl (principal investigator) at searljef@msu.edu</p>
+<p>For more information about the app, please contact Peter S. Popolo (app developer) by email at peterpopolo@gmail. For information about the research project and data collection, contact Jeff Searl (principal investigator) at searljef@msu.edu</p>
 
 <p class="summary">
 
