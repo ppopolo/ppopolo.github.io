@@ -43,7 +43,7 @@
 	</ul>
 	<p><b>What I offer:</b></p> 
 	<ul>
-  		<li>Straight-forward, test-taking strategy & psychology, content-mastery, adaptive teaching techniques</li>
+  		<li>Straight-forward, personalized instruction in test-taking strategy & psychology and content-mastery, using adaptive teaching techniques</li>
 	</ul>
 	
 	<p><b>Subject areas taught:</b></p>
@@ -68,7 +68,7 @@
 	
 	<p><b>Sample Rates: GRE Prep</b></p>
 	<ul>
-		<li>Includes LIVE on-line instruction, unlimited practice test analysis, virtual test-day experience</li>
+		<li>Includes LIVE, personalized on-line instruction, unlimited practice test analysis, virtual test-day experience</li>
 	<ul style="padding-left:20px">
   		<li>Option 1: 18-hr Package Deal for $549 ($30.50/hr) - BEST VALUE!</li>
 		<li>Option 2: Individual or additional hours: $34/hr</li>
