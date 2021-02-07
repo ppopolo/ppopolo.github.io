@@ -59,7 +59,6 @@
 		<li>GRE (Quantitative and Verbal Reasoning</li>
 		<li>SAT and PSAT</li>
 		<li>SAT Subject Tests:</li>
-	</ul>
 	<ul style="padding-left:20px">
     		<li>Math Level 1</li>
     		<li>Math Level 2</li>
