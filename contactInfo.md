@@ -47,7 +47,7 @@
 	
 <a href="./">Home</a>
 
-</div>
+
 
 
 
