@@ -35,7 +35,14 @@
 	</div>
 </div>
 
-<div class="prpl-row"><! - -></div>
+<div class="prpl-row">
+	<ul>
+  		<li>Ph.D., published author, university instructor with STEM, Humanities & Social Sciences, Health Sciences, and English Composition/Literature backgrounds</li>
+  		<li>Straight-forward, test-taking strategy & psychology, content-mastery, adaptive teaching techniques</li>
+  		<li>Ask about individual subjects (Calculus, Algebra, Physics, Computer Science) and other standardized tests (incl. PRAXIS), too!</li>
+	</ul>
+
+</div>
 
 <p style="text-align:justify"><! - -></p> 
 
