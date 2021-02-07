@@ -65,9 +65,7 @@
     		<li>Math Level 2</li>
 		<li>Physics</li>
 	</ul>
-	<ul>
-		<li>Praxis exams for Allied Health careers </li>
-	</ul>
+	<p>Ask about Praxis exams for Allied Health careers!</p>
 
 </div>
 
