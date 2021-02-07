@@ -64,9 +64,7 @@
 
 <p class="summary">Click to view Mobile App Privacy Policy: <a href="privacy.pdf" target="_blank">Privacy Policy</a>
 	
-<footer>
-    <small>&#169; 2021 Peter S. Popolo. All rights reserved.</small>
-</footer>
+<br><p><small>&#169; 2021 Peter S. Popolo. All rights reserved.</small></p>
 
 
 
