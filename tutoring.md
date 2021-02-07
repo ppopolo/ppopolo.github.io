@@ -26,7 +26,7 @@
 	
 	<div class="prpl-column one-third">
 	
-  			<img src="IMG_1896.jpg" alt="Boulder, CO Front Range" width="1600"/>
+  			<img src="IMG_1896.jpeg" alt="Boulder, CO Front Range" width="1600"/>
   			<p style="text-align:right"><small>&#169; 2021 Peter S. Popolo</small></p>
 
 	</div>
