@@ -78,7 +78,7 @@
 
 </div>
 
-<p>Contact <a href="mailto:peterpopolo@gmail.com?subject=Tutoring inquiry"> Peter S. Popolo</a>to inquire about tutoring today!</p>
+<p>Contact <a href="mailto:peterpopolo@gmail.com?subject=Tutoring inquiry"> Peter S. Popolo</a> to inquire about tutoring today!</p>
 
 <a href="./">Home</a>
 
