@@ -48,7 +48,7 @@
 	<div class="prpl-column two-thirds">
 			<h1>About me</h1>
 		<img src="psp.jpg" alt="psp"/>
-		<p style="text-align:right"><small>&#169; 2021 Peter S. Popolo</small></p>
+		<small>&#169; 2021 Peter S. Popolo</small>
 	</div>
 	<div class="prpl-column two-thirds">
 		 <h1>Peter S. Popolo, Ph.D.</h1>
