@@ -35,12 +35,7 @@
 	</div>
 </div>
 
-<div class="prpl-row">
-	
-
-
-
-</div>
+<div class="prpl-row"><!- -></div>
 
 <p style="text-align:justify"><!- -></p> 
 
