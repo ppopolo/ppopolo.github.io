@@ -22,6 +22,7 @@
 	&nbsp;&nbsp;
 	<a href="./about.html">About</a>
 	&nbsp;&nbsp;
+	<a href="https://www.researchgate.net/profile/Peter_Popolo/research" arget="_blank">Research Publications</a>
 	<a href="./contactInfo.html">Contact</a></p>
 	
 	<div class="prpl-column one-third">
