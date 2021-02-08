@@ -46,7 +46,7 @@
 
 <p>Based on the paradigm of the need I first identified when I was in academia, I started <a href="http://www.digitalhealthapplications.com">Digitalhealthapplications.com</a> to offer a means to create your iPhone app, from concept to App Store acceptance, in a rapid-turnaround timeframe (typically 5 weeks for a moderate-complexity app). My services are competitively priced, and my background in academic research allows me to support your allied health-related evidence-based clinical research project in a collaborative, cost-effective, and timely manner.</p>
 
-<p>Contact <a href="mailto:peterpopolo@gmail.com?subject=Contact"> me today and let's turn YOUR app idea into reality in as little as 5 weeks!</a></p>
+<p><a href="mailto:peterpopolo@gmail.com?subject=Contact">Contact</a> me today and let's turn YOUR app idea into reality in as little as 5 weeks!</p>
 
 <a href="./">Home</a>
 
