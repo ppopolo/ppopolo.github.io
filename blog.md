@@ -29,12 +29,12 @@
 	
 	<div class="prpl-column one-third">
 	
-  			<img src="cropped-beach-at-stromboli3.jpg" alt="Beach at Stromboli" width="1600"/>
+  			<img src="IMG_0254_cropped.jpg" alt="Beach at Stromboli" width="1600"/>
   			<p style="text-align:right"><small>&#169; 2021 Peter S. Popolo</small></p>
 
 	</div>
 	<div class="prpl-column two-thirds">
-			<h2>About Digitalhealthapplications.com</h2>
+			<h2>Meeting a need in the academic research community</h2>
 	</div>
 </div>
 
