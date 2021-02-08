@@ -46,7 +46,7 @@
 
 <p>Beginning in 2021, I also offer individual tutoring in the STEM (Science, Technology, Engineering, Math) subjects and standardized test prep, via online teleconferencing  applications (such as zoom). I specialize in Human Anatomy & Physiology, Neuroscience, Physics for the Health Sciences (as well as for Engineering majors), Calculus, Linear Algebra, and preparation in GRE (Quantitative and Verbal Reasoning), PSAT, SAT, SAT Subject Tests in the Math Level I, Math Level II, and Physics areas, and Praxis exams for allied health careers. Because I don't work for test prep companies, don't travel, and don't need to rent classroom space, I am able to offer extremely competitive hourly rates and packages - AND during the COVID resctictions, online tutoring is the way to go! <a href="./tutoring.html">(go to Tutoring)</a></p>
 
-<p>Lastly, I am also available to do live (and virtual) speaking and instruction sessions, in design and technology as it relates to speech, voice, and hearing science. Book to to speak to your group today!</p>
+<p>Lastly, I am also available to do live (and virtual) speaking and instruction sessions, in design and technology as it relates to speech, voice, and hearing science. Book me to speak to your group today!</p>
 
 </div>
 	
