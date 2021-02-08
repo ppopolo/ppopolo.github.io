@@ -18,9 +18,11 @@
 	&nbsp;&nbsp;
 	<a href="./latest.html">Apps</a>
 	&nbsp;&nbsp;
+	<a href="./tutoring.html">Tutoring</a>
+	&nbsp;&nbsp;
 	<a href="./about.html">About</a>
 	&nbsp;&nbsp;
-	<a href="./tutoring.html">Tutoring</a>
+	<a href="./blog.html">Blog</a>
 	&nbsp;&nbsp;
 	<a href="./contactInfo.html">Contact</a></p>
 	
