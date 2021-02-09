@@ -38,7 +38,7 @@
 </div>
 
 <div class="prpl-column one-third">
-		<img src="CPPlogo.png" alt="App logo" width="600"/>
+		<img src="CPPlogo.png" alt="App logo" width="200"/>
 	</div>
 
 <div id="MyVoice App"><h3>MyVoice - Voice Recorder and Self-Rating Log</h3>
