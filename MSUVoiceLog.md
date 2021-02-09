@@ -59,7 +59,7 @@
 
 <p class="summary">Click to view Mobile App Privacy Policy: <a href="MSU-privacy.pdf" target="_blank">Privacy Policy</a>
 	
-<p><a href="./latest.html">Back</a></p>
+<p><a href="./MSUVoiceLog.html">Back to Top</a></p>
 
 <p><small>&#169; 2021 Peter S. Popolo. All rights reserved.</small></p>
 
