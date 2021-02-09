@@ -36,6 +36,10 @@
 
 </div>
 
+<div class="prpl-column one-third">
+		<img src="MSUicon-00.png" alt="App logo" width="200"/>
+</div>
+
 <div id="MSU Voice Log App"><h3>MSU Voice Log</h3>
 
 <p class="summary">
