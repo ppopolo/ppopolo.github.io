@@ -48,7 +48,7 @@
 
 <p><a href="mailto:peterpopolo@gmail.com?subject=Contact">Contact</a> me today and let's turn YOUR app idea into reality in as little as 5 weeks!</p>
 
-<a href="./">Home</a>
+<a href="./blog.html">Back to Top</a>
 
 <br><br><p><small>&#169; 2021 Peter S. Popolo. All rights reserved.</small></p>
 
