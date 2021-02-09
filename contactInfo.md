@@ -46,7 +46,7 @@
 
 <p>Send email to <a href="mailto:peterpopolo@gmail.com?subject=Request a quote&body=YES! I would like to get a quote from Digitalhealthapplications.com to create a custom app for my research project. Let's set up a day and time to discuss my specific needs and requirements."> Peter S. Popolo</a></p>
 	
-<a href="./contactInfo.html">Back to Top</a></p>
+<a href="./contactInfo.html">Back to Top</a>
 
 <br><br><p><small>&#169; 2021 Peter S. Popolo. All rights reserved.</small></p>
 
