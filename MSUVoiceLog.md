@@ -55,7 +55,7 @@
 
 <div class="prpl-row">
 	<div class="prpl-column one-third">
-		<img src="MSUVoiceLogo.png" alt="App Screen Shots">
+		<img src="Presentation1.png" alt="App Screen Shots">
 	</div>
 
 
