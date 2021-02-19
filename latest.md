@@ -24,9 +24,9 @@
 	</div>
 </div>
 
-<p><a href="./MyVoice.html">My Voice - Self-Rating Log</a></p>
+<p><a href="./MyVoice.html">MyVoice - Self-Rating Log</a></p>
 
-<p><a href="./MSUVoiceLog.html">MSU Voice Log</a></p>
+<p><a href="./MSUVoiceLog.html">MyVoiceLog</a></p>
 
 <a href="./latest.html">Back to Top</a> 
 
