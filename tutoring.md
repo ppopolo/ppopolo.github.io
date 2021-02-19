@@ -22,7 +22,7 @@
 	&nbsp;&nbsp;
 	<a href="./about.html">About</a>
 	&nbsp;&nbsp;
-	<a href="./blog.html">Blog</a>
+	<a href="./latest_blog.html">Blog</a>
 	&nbsp;&nbsp;
 	<a href="./contactInfo.html">Contact</a></p>
 	
