@@ -28,6 +28,6 @@
 
 <p><a href="./blog_2.html">An amazing array of sensors at your fingertips</a></p>
 
-<a href="./latest.html">Back to Top</a> 
+<a href="./latest_blog.html">Back to Top</a> 
 
 <small>&#169; 2021 Peter S. Popolo. All rights reserved.</small>
