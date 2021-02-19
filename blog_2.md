@@ -52,7 +52,7 @@
 
 <p style="text-align:justify">This post includes information found in the review article <i>Smartphone Sensors for Health Monitoring and Diagnosis</i> by Majumder S. and Deen M.J., in Sensors, 2019, <i>19</i>:2164.</p>
 
-<a href="./blog.html">Back to Top</a>
+<a href="./blog_2.html">Back to Top</a>
 
 <br><br><p><small>&#169; 2021 Peter S. Popolo. All rights reserved.</small></p>
 
