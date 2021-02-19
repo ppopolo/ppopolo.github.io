@@ -50,7 +50,7 @@
 
 <p><a href="mailto:peterpopolo@gmail.com?subject=Contact">Contact</a> me today and let's turn YOUR app idea into reality in as little as 5 weeks!</p>
 
-<p style="text-align:justify"><i>[This post includes information found in the review article 'Smartphone Sensors for Health Monitoring and Diagnosis' by Majumder S. and Deen M.J., in Sensors, 2019, <i>19</i>:2164.]</i></p>
+<p style="text-align:justify"><i>[This post includes information found in the review article 'Smartphone Sensors for Health Monitoring and Diagnosis' by Majumder S. and Deen M.J., in Sensors, 2019, <i>19</i>:2164]</i></p>
 
 <a href="./blog_2.html">Back to Top</a>
 
