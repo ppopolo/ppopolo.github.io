@@ -44,7 +44,7 @@
 
 <p style="text-align:justify">According to a 2018 online source, more than 300K health apps are currently available (even more in 2021!), and over 60% of smartphone users downloaded at least one health app and used it daily. As gleaned from the list of sensors in the above paragraph, health apps are being used to monitor anything from pulse rate, to balance and falls for the elderly, to disease progress such as rheumatoid arthritis (RA) and age-related macular degeneration (AMD), and even COVID-related monitoring such as cough detection and vocal strain due to videoconferencing.</p>
 
-<p style="text-align:justify">The original logo I designed for Digital Health Applications back in 2017, shown above, was inspired by the health monitoring and sensing capabilities available in the iPhone, and the amazing potential of the exciting new field of SaMD (software as a medical device).</p>
+<p style="text-align:justify">The original logo I designed for Digital Health Applications back in 2017, shown above, was inspired by the health monitoring and sensing capabilities available in the iPhone, and the amazing potential of the exciting new field of SaMD (Software as a Medical Device).</p>
 
 <p style="text-align:justify">Have you ever  used a health-monitoring app that utilizes one of these sensors? What would you use an iOS app to monitor in your evidence-based clinical practice?</p>
 
