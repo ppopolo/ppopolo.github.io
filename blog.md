@@ -29,7 +29,7 @@
 	
 	<div class="prpl-column one-third">
 	
-  			<img src="IMG_0254_cropped.jpg" alt="Beach at Stromboli" width="1600"/>
+  			<img src="IMG_0254_cropped.jpg" alt="Garden path" width="1600"/>
   			<p style="text-align:right"><small>&#169; 2021 Peter S. Popolo</small></p>
 
 	</div>
