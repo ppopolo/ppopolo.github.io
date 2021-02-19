@@ -48,9 +48,9 @@
 
 <p style="text-align:justify">Have you ever  used a health-monitoring app that utilizes one of these sensors? What would you use an iOS app to monitor in your evidence-based clinical practice?</p>
 
-<p style="text-align:justify">This post includes information found in the review article Smartphone Sensors for Health Monitoring and Diagnosis by Majumder S. and Deen M.J., in Sensors, 2019, 19:2164.</p>
-
 <p><a href="mailto:peterpopolo@gmail.com?subject=Contact">Contact</a> me today and let's turn YOUR app idea into reality in as little as 5 weeks!</p>
+
+<p style="text-align:justify">This post includes information found in the review article Smartphone Sensors for Health Monitoring and Diagnosis by Majumder S. and Deen M.J., in Sensors, 2019, 19:2164.</p>
 
 <a href="./blog.html">Back to Top</a>
 
