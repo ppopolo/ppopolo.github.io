@@ -31,7 +31,7 @@
 
 <div class="prpl-row">
 	<div class="prpl-column two-thirds">
-			<h1>MSUVoiceLog App</h1>
+			<h1>MyVoiceLog App</h1>
 	</div>
 
 </div>
@@ -40,7 +40,7 @@
 		<img src="MSUicon-00.png" alt="App logo" width="200"/>
 </div>
 
-<div id="MSU Voice Log App"><h3>MSU Voice Log</h3>
+<div id="MSU Voice Log App"><h3>MyVoiceLog</h3>
 
 <p class="summary">
 
