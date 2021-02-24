@@ -28,6 +28,8 @@
 
 <p><a href="./blog_2.html">An amazing array of sensors at your fingertips</a></p>
 
+<p><a href="./blog_3.html">Obtaining the Basic Science Background You Need To Become an Allied-Health Practitioner</a></p>
+
 <a href="./latest_blog.html">Back to Top</a> 
 
 <small>&#169; 2021 Peter S. Popolo. All rights reserved.</small>
