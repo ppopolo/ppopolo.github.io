@@ -29,7 +29,7 @@
 	
 	<div class="prpl-column one-third">
 	
-  			<img src="STEMicons.png" alt="Drawing of STEM icons" width="1600"/>
+  			<img src="DrRx.png" alt="Dr handing an Rx" width="1600"/>
   			<p style="text-align:right"><small>&#169; 2021 Peter S. Popolo</small></p>
 
 	</div>
