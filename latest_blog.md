@@ -32,7 +32,7 @@
 
 <p><a href="./blog_4.html">Making the Case for Your Custom-Built App</a></p>
 
-<p><a href="./blog_5.html">The Voice-Body Connection</a></p>
+<p><a href="./blog_5.html">Cardio-Vocal Syndrome and the Voice-Body Connection</a></p>
 
 <a href="./latest_blog.html">Back to Top</a> 
 
