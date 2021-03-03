@@ -32,6 +32,8 @@
 
 <p><a href="./blog_4.html">Making the Case for Your Custom-Built App</a></p>
 
+<p><a href="./blog_5.html">The Voice-Body Connection</a></p>
+
 <a href="./latest_blog.html">Back to Top</a> 
 
 <small>&#169; 2021 Peter S. Popolo. All rights reserved.</small>
