@@ -34,7 +34,7 @@
 
 	</div>
 	<div class="prpl-column two-thirds">
-			<h2>Obtaining the Basic Science Background You Need To Become an Allied-Health Practitioner</h2>
+			<h2>The Voice-Body Connection</h2>
 	</div>
 </div>
 
