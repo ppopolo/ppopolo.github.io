@@ -34,7 +34,7 @@
 
 	</div>
 	<div class="prpl-column two-thirds">
-			<h2>The Voice-Body Connection</h2>
+			<h2>Cardio-Vocal Syndrome and the Voice-Body Connection</h2>
 	</div>
 </div>
 
