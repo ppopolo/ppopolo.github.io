@@ -54,7 +54,7 @@
 
 <p style="text-align:justify">Popolo, P.S., Svec, J.G. & Titze, I.R. (2005). Adaptation of a Pocket PC for use as a wearable voice dosimeter. Journal of Speech, Language and Hearing Research, 48:780-91. </p>
 
-<p style="text-align:justify">Svec, J.G., Titze, I.R. & Popolo, P.S. (2005). Estimation of sound pressure levels of voiced speech from skin vibration of the neck. Journal of the Acoustical Society of America, 117:1386-94; <a href="https://doi.org/10.1121/1.1850074" target="_blank">https://doi.org/10.1121/1.1850074</a> </p>
+<p style="text-align:justify">Svec, J.G., Titze, I.R. & Popolo, P.S. (2005). Estimation of sound pressure levels of voiced speech from skin vibration of the neck. Journal of the Acoustical Society of America, 117: 1386-94; <a href="https://doi.org/10.1121/1.1850074" target="_blank">https://doi.org/10.1121/1.1850074</a> </p>
 
 <p style="text-align:justify">Emerich, K.A., Titze, I.R., Svec, J.G., Popolo, P.S. & Logan, G. (2005). Vocal range and intensity in actors: a studio versus stage comparison. Journal of Voice,19:78-83. </p>
 
