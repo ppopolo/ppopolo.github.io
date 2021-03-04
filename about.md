@@ -43,7 +43,7 @@
 
 <p><a href="./about_Me.html">About Me</a></p>
 
-<p><a href="./about_Pubs.html">Peer-Reviewed Publications</a></p>
+<p><a href="./about_Pubs.html">Publications</a></p>
 
 <p><a href= "https://www.researchgate.net/profile/Peter_Popolo/research" target="_blank">ResearchGate (External link)</a></p>
 
