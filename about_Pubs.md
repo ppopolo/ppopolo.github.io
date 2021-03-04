@@ -50,13 +50,13 @@
 
 <p style="text-align:justify">Popolo, P.S. and Titze, I.R. (2008). Qualification of a quantitative laryngeal imaging system using videostroboscopy and videokymography. Annals of Otology, Rhinology and Laryngology, 117:404-12. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2538379/" target="_blank"><b>Free PMC article</b></a></p>
 
-<p style="text-align:justify">Popolo, P.S., Svec, J.G. & Titze, I.R. (2005). Adaptation of a Pocket PC for use as a wearable voice dosimeter. Journal of Speech, Language and Hearing Research, 48:780-91. </p>
-
-<p style="text-align:justify">Svec, J.G., Popolo, P.S. & Titze, I.R. (2003). Measurement of vocal doses in speech: experimental procedure and signal processing. Logoped Phoniatr Vocol, 28:181-92. </p>
-
 <p style="text-align:justify">Titze, I.R., Riede, T. & Popolo, P.S. (2008). Nonlinear source-filter coupling in phonation: II. Vocal exercises. Journal of the Acoustical Society of America, 123: 1902–1915. </p>
 
+<p style="text-align:justify">Popolo, P.S., Svec, J.G. & Titze, I.R. (2005). Adaptation of a Pocket PC for use as a wearable voice dosimeter. Journal of Speech, Language and Hearing Research, 48:780-91. </p>
+
 <p style="text-align:justify">Svec, J.G., Titze, I.R. & Popolo, P.S. (2005). Estimation of sound pressure levels of voiced speech from skin vibration of the neck. Journal of the Acoustical Society of America, 117:1386-94. </p>
+
+<p style="text-align:justify">Svec, J.G., Popolo, P.S. & Titze, I.R. (2003). Measurement of vocal doses in speech: experimental procedure and signal processing. Logoped Phoniatr Vocol, 28:181-92. </p>
 
 <p style="text-align:justify">Titze, I.R., Svec, J.G. & Popolo, P.S. (2003). Vocal dose measures: quantifying accumulated vibration exposure in vocal fold tissues. Journal of Speech, Language and Hearing Research, 2003, 46:919-32. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3158591/" target="_blank"><b>Free PMC article</b></a></p>
 
