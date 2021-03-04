@@ -70,7 +70,7 @@
 	
 <div class="prpl-row">
 
-<p style="text-align:justify"><a href="./PopoloSandersTitze_AES123_2007.pdf" _target="blank">Sanders, R.W., Popolo, P.S. (2008). Extraction of electric network frequency signals from recordings made in a controlled magnetic field. 125th Audio Engineering Society Convention, 2008, 2:1143-1150. </p>
+<p style="text-align:justify"><a href="./PopoloSandersTitze_AES123_2007.pdf" target="_blank>Sanders, R.W., Popolo, P.S. (2008). Extraction of electric network frequency signals from recordings made in a controlled magnetic field. 125th Audio Engineering Society Convention, 2008, 2:1143-1150. </p>
 
 <p style="text-align:justify">Popolo, P. S., Sanders, R. W., & Titze, I. R. (2007). Quantifying the speaking voice: Generating a speaker code as a means of speaker identification using a simple code-matching technique. 123rd Audio Engineering Society Convention, 1:456-468.</p>
 
