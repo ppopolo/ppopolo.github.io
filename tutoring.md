@@ -40,7 +40,7 @@
 <div class="prpl-row">
 	<p><b>Qualifications:</b></p> 
 	<ul>
-  		<li>Ph.D., <a href= "https://www.researchgate.net/profile/Peter_Popolo/research" target="_blank">published author</a>, university instructor with STEM, Humanities & Social Sciences, and Health Sciences backgrounds</li>
+  		<li>Ph.D., <a href= "./about_Pubs.html">published author</a>, university instructor with STEM, Humanities & Social Sciences, and Health Sciences backgrounds</li>
 		<li>GRE = 1410 (323), SAT = 1280, MS: 3.4 GPA, BS: 3.842 GPA, HS Valedictorian</li>
 	</ul>
 	<p><b>What I offer:</b></p> 
