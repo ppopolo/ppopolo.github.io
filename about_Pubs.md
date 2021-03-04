@@ -64,9 +64,9 @@
 
 </div>
 
-	<div class="prpl-column two-thirds">
-			<h2>Selected Conference Proceedings</h2>
-	</div>
+<div class="prpl-column two-thirds">
+	<h2>Selected Conference Proceedings</h2>
+</div>
 	
 <div class="prpl-row">
 
@@ -75,6 +75,18 @@
 <p style="text-align:justify">Popolo, P. S., Sanders, R. W., & Titze, I. R. (2007). Quantifying the speaking voice: Generating a speaker code as a means of speaker identification using a simple code-matching technique. 123rd Audio Engineering Society Convention, 1:456-468.</p>
 
 <p style="text-align:justify">Svec, J.G., Titze, I.R., Popolo, P.S. (2003). Vocal Dosimetry: Theoretical and Practical Issues. AQL 2003 Hamburg: Proceeding Papers for the Conference in Quantitative Laryngology, Voice and Speech Research. </p>
+
+</div>
+
+<div class="prpl-column two-thirds">
+	<h2>Selected Poster Presentations</h2>
+</div>
+	
+<div class="prpl-row">
+
+<p style="text-align:justify">Popolo, P.S. & Turner, C.W. (2005). Recognition of vowels that have been spectrally warped according to the frequency map for the spiral ganglion. 149th Meeting of the Acoustical Society of America, Vancouver, Canada, May 16-20, 2005. </p>
+
+<p style="text-align:justify">Popolo, P.S., Rogge-Miller, K., Svec, J.G. & Titze, I.R. (2002). Technical considerations in the design of a wearable voice dosimeter. 144th Meeting of the Acoustical Society of America, Cancun, Mexico, December 2-6, 2002. </p>
 
 </div>
 
