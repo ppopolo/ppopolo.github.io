@@ -33,9 +33,7 @@
   			<p style="text-align:right"><small>&#169; 2021 Peter S. Popolo</small></p>
 
 	</div>
-	<div class="prpl-column two-thirds">
-			<h2>About Digitalhealthapplications.com</h2>
-	</div>
+	
 </div>
 
 <p><a href="./about_DHA.html">About Digitalhealthapplications.com</a></p>
