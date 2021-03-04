@@ -34,6 +34,11 @@
 
 	</div>
 	
+	</div>
+	<div class="prpl-column two-thirds">
+			<h2>About</h2>
+	</div>
+	
 </div>
 
 <p><a href="./about_DHA.html">About Digitalhealthapplications.com</a></p>
