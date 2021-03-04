@@ -45,6 +45,8 @@
 
 <p><a href="./about_Pubs.html">Peer-Reviewed Publications</a></p>
 
+<a href= "https://www.researchgate.net/profile/Peter_Popolo/research" target="_blank">Researchgate (External link)</a>
+
 <a href="./about.html">Back to Top</a> 
 
 <br><br><p><small>&#169; 2021 Peter S. Popolo. All rights reserved.</small></p>
