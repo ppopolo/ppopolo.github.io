@@ -58,7 +58,7 @@
 
 <p style="text-align:justify">Svec, J.G., Titze, I.R. & Popolo, P.S. (2005). Estimation of sound pressure levels of voiced speech from skin vibration of the neck. Journal of the Acoustical Society of America, 117:1386-94. </p>
 
-<p style="text-align:justify">Titze, I.R., Svec, J.G. & Popolo, P.S. (2003). Vocal dose measures: quantifying accumulated vibration exposure in vocal fold tissues. Journal of Speech, Language and Hearing Research, 2003, 46:919-32. </p>
+<p style="text-align:justify">Titze, I.R., Svec, J.G. & Popolo, P.S. (2003). Vocal dose measures: quantifying accumulated vibration exposure in vocal fold tissues. Journal of Speech, Language and Hearing Research, 2003, 46:919-32. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3158591/" target="_blank"><b>Free PMC article</b></a></p>
 
 <p style="text-align:justify">Emerich, K.A., Titze, I.R., Svec, J.G., Popolo, P.S. & Logan, G. (2005). Vocal range and intensity in actors: a studio versus stage comparison. Journal of Voice,19:78-83. </p>
 
