@@ -84,7 +84,7 @@
 	
 <div class="prpl-row">
 
-<p style="text-align:justify">Popolo, P.S. & Turner, C.W. (2005). Recognition of vowels that have been spectrally warped according to the frequency map for the spiral ganglion. The Journal of the Acoustical Society of America 117, 2600 (2005); <a href="https://asa.scitation.org/doi/abs/10.1121/1.4777618" target="_blank"> https://doi.org/10.1121/1.4777618</a>149th Meeting of the Acoustical Society of America, Vancouver, Canada, May 16-20, 2005. </p>
+<p style="text-align:justify">Popolo, P.S. & Turner, C.W. (2005). Recognition of vowels that have been spectrally warped according to the frequency map for the spiral ganglion. The Journal of the Acoustical Society of America 117, 2600 (2005); <a href="https://asa.scitation.org/doi/abs/10.1121/1.4777618" target="_blank"> https://doi.org/10.1121/1.4777618.</a> 149th Meeting of the Acoustical Society of America, Vancouver, Canada, May 16-20, 2005. </p>
 
 <p style="text-align:justify">Popolo, P.S., Rogge-Miller, K., Svec, J.G. & Titze, I.R. (2002). Technical considerations in the design of a wearable voice dosimeter. 144th Meeting of the Acoustical Society of America, Cancun, Mexico, December 2-6, 2002. </p>
 
