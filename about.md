@@ -38,33 +38,13 @@
 	</div>
 </div>
 
-<div class="prpl-row">
+<p><a href="./about_DHA.html">About Digitalhealthapplications.com</a></p>
 
-<p style="text-align:justify">SIMPLY PUT, what I offer is the ability to create your iPhone app, from concept to App Store acceptance, in a rapid-turnaround timeframe, to support your evidence-based clinical research project. I typically charge around $6,000 to deliver your App-Store-published and downloadable app in just about 5 weeks, on average, for a moderate-complexity app with up to six separate text-based or static-image user-interface screens (scenes) and basic features. Apps with more than 6 scenes, or that have animations and complicated graphic interfaces, advanced feature sets, or that implement complex algorithms or require significant computing or storage resources, are competitively priced upward from that basic starting point and require longer turnaround times.</p>
+<p><a href="./about_Me.html">About Me</a></p>
 
-<p style="text-align:justify">Beginning in 2021, I also offer individual tutoring in the STEM subjects (Science, Technology, Engineering, Math) and standardized test prep, via online videoconferencing  applications (such as Zoom). I specialize in Human Anatomy & Physiology, Neuroscience, Physics for the Health Sciences (as well as for Engineering majors), Calculus, Linear Algebra, and preparation in GRE (Quantitative and Verbal Reasoning), PSAT, SAT, SAT Subject Tests in the Math Level I, Math Level II, and Physics areas, and Praxis exams for allied health careers. Because I don't work for test prep companies, don't travel, and don't need to rent classroom space, I am able to offer extremely competitive hourly rates and packages - AND during the COVID restrictions, online tutoring is the way to go! <a href="./tutoring.html">(go to Tutoring)</a></p>
+<p><a href="./about_Pubs.html">Peer-Reviewed Publications</a></p>
 
-<p style="text-align:justify">I am available to do live (and virtual) speaking and instruction sessions, in design and technology as it relates to speech, voice, and hearing science. Book me to speak to your group today!</p>
-
-</div>
-	
-<div class="prpl-column one-third">
-	<div class="prpl-column two-thirds">
-			<h1>About me</h1>
-		<img src="psp.jpg" alt="psp"/>
-		<p><small>&#169; 2021 Peter S. Popolo</small></p>
-	</div>
-	<div class="prpl-column two-thirds">
-		 <h1>Peter S. Popolo, Ph.D.</h1>
-			<h2>Digital health technical consulting services</h2>
-	</div>
-</div>
-
-<p style="text-align:justify">As a software developer and voice researcher, I bring a focused mix of industry, research, and academic experience to your evidence-based clinical research project. I have a history of product development successes, from conceptual design through launch, in the areas of speech & voice acoustics, videolaryngoscopic imaging, and electronic health record (EHR) systems. I am highly skilled in Matlab programming for rapid prototyping and testing of complex algorithms, and I am a self-taught iOS app developer using Swift to create iPhone apps that support evidence-based clinical practice. I am passionate about user experience/user interface (UX/UI) design and user research, and I am also an experienced university instructor (online & in-person) at the graduate and undergraduate levels. </p> 
-
-<p>Contact <a href="mailto:peterpopolo@gmail.com?subject=Contact"> Peter S. Popolo</a></p>
-
-<a href="./about.html">Back to Top</a>
+<a href="./about.html">Back to Top</a> 
 
 <br><br><p><small>&#169; 2021 Peter S. Popolo. All rights reserved.</small></p>
 
