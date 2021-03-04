@@ -46,7 +46,7 @@
 
 <p style="text-align:justify">Popolo, P.S. (2018). Investigation of Flexible High-Speed Video Nasolaryngoscopy. Journal of Voice, 32:529-537. </p>
 
-<p style="text-align:justify">Popolo, P.S., Titze, I.R., & Hunter, E.J. (2011). Towards a self-rating tool of the inability to produce soft voice based on nonlinear events: A preliminary study. Acta Acustica United With Acustica, 97:373-381. </p>
+<p style="text-align:justify"><a href="./PopoloTitzeHunter_ActaAcustica2011.pdf" target="_blank">Popolo, P.S., Titze, I.R., & Hunter, E.J. (2011). Towards a self-rating tool of the inability to produce soft voice based on nonlinear events: A preliminary study.</a> Acta Acustica United With Acustica, 97:373-381. </p>
 
 <p style="text-align:justify">Popolo, P.S. and Titze, I.R. (2008). Qualification of a quantitative laryngeal imaging system using videostroboscopy and videokymography. Annals of Otology, Rhinology and Laryngology, 117:404-12. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2538379/" target="_blank"><b>Free PMC article</b></a></p>
 
