@@ -33,8 +33,6 @@
   			<p style="text-align:right"><small>&#169; 2021 Peter S. Popolo</small></p>
 
 	</div>
-	
-	</div>
 	<div class="prpl-column two-thirds">
 			<h2>About</h2>
 	</div>
