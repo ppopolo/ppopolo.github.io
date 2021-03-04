@@ -34,7 +34,7 @@
 
 	</div>
 	<div class="prpl-column two-thirds">
-			<h2>Peer-Reviewed Publications</h2>
+			<h2>Peer-Reviewed Journal Articles</h2>
 	</div>
 </div>
 
@@ -61,6 +61,20 @@
 <p style="text-align:justify">Svec, J.G., Popolo, P.S. & Titze, I.R. (2003). Measurement of vocal doses in speech: experimental procedure and signal processing. Logoped Phoniatr Vocol, 28:181-92. </p>
 
 <p style="text-align:justify">Titze, I.R., Svec, J.G. & Popolo, P.S. (2003). Vocal dose measures: quantifying accumulated vibration exposure in vocal fold tissues. Journal of Speech, Language and Hearing Research, 2003, 46:919-32. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3158591/" target="_blank"><b>Free PMC article</b></a></p>
+
+</div>
+
+	<div class="prpl-column two-thirds">
+			<h2>Selected Conference Proceedings</h2>
+	</div>
+	
+<div class="prpl-row">
+
+<p style="text-align:justify">Sanders, R.W., Popolo, P.S. (2008). Extraction of electric network frequency signals from recordings made in a controlled magnetic field. 125th Audio Engineering Society Convention, 2008, 2:1143-1150. </p>
+
+<p style="text-align:justify">Popolo, P. S., Sanders, R. W., & Titze, I. R. (2007). Quantifying the speaking voice: Generating a speaker code as a means of speaker identification using a simple code-matching technique. 123rd Audio Engineering Society Convention, 1:456-468.</p>
+
+<p style="text-align:justify">Svec, J.G., Titze, I.R., Popolo, P.S. (2003). Vocal Dosimetry: Theoretical and Practical Issues. AQL 2003 Hamburg: Proceeding Papers for the Conference in Quantitative Laryngology, Voice and Speech Research. </p>
 
 </div>
 
