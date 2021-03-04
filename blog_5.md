@@ -30,7 +30,7 @@
 	<div class="prpl-column one-third">
 	
   			<img src="RLN1.png" alt="Titze RLN Fig 1_17" width="1600"/>
-  			<p style="text-align:right"><small>From: Titze, I.R., "Principles of Voice Production," 2000</small></p>
+  			<p style="text-align:right"><small>From: Titze, I.R., "Principles of Voice Production", 2000</small></p>
 
 	</div>
 	<div class="prpl-column two-thirds">
