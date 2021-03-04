@@ -44,7 +44,7 @@
 
 <p style="text-align:justify">Popolo, P.S. and Johnson, A.M. (2020). Relating Cepstral Peak Prominence to Cyclical Parameters of Vocal Fold Vibration from High-Speed Videoendoscopy using Machine Learning: A Pilot Study. Journal of Voice, 2020 Mar 12:S0892-1997(19)30461-8. doi: <a href="https://doi.org/10.1016/j.jvoice.2020.01.026" target="_blank">10.1016/j.jvoice.2020.01.026.</a> Published online ahead of print.</p>
 
-<p style="text-align:justify">Popolo, P.S. (2018). Investigation of Flexible High-Speed Video Nasolaryngoscopy. Journal of Voice, 32:529-537. </p>
+<p style="text-align:justify">Popolo, P.S. (2018). Investigation of Flexible High-Speed Video Nasolaryngoscopy. Journal of Voice, 32:529-537; DOI:<a href+"https://www.jvoice.org/article/S0892-1997(17)30284-9/fulltext" target'"_blank">https://doi.org/10.1016/j.jvoice.2017.08.017</a></p>
 
 <p style="text-align:justify"><a href="./PopoloTitzeHunter_ActaAcustica2011.pdf" target="_blank">Popolo, P.S., Titze, I.R., & Hunter, E.J. (2011). Towards a self-rating tool of the inability to produce soft voice based on nonlinear events: A preliminary study.</a> Acta Acustica United With Acustica, 97:373-381. </p>
 
@@ -56,7 +56,7 @@
 
 <p style="text-align:justify">Svec, J.G., Titze, I.R. & Popolo, P.S. (2005). Estimation of sound pressure levels of voiced speech from skin vibration of the neck. Journal of the Acoustical Society of America, 117: 1386-94; <a href="https://doi.org/10.1121/1.1850074" target="_blank">https://doi.org/10.1121/1.1850074</a> </p>
 
-<p style="text-align:justify">Emerich, K.A., Titze, I.R., Svec, J.G., Popolo, P.S. & Logan, G. (2005). Vocal range and intensity in actors: a studio versus stage comparison. Journal of Voice,19:78-83. </p>
+<p style="text-align:justify">Emerich, K.A., Titze, I.R., Svec, J.G., Popolo, P.S. & Logan, G. (2005). Vocal range and intensity in actors: a studio versus stage comparison. Journal of Voice,19:78-83. DOI:<a href="https://www.jvoice.org/article/S0892-1997(04)00126-2/fulltext" target="_blank">https://doi.org/10.1016/j.jvoice.2004.08.006</a></p>
 
 <p style="text-align:justify">Svec, J.G., Popolo, P.S. & Titze, I.R. (2003). Measurement of vocal doses in speech: experimental procedure and signal processing. Logoped Phoniatr Vocol, 28:181-92. </p>
 
