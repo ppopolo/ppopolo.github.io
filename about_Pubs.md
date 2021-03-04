@@ -48,7 +48,7 @@
 
 <p style="text-align:justify">Popolo, P.S., Titze, I.R., & Hunter, E.J. (2011). Towards a self-rating tool of the inability to produce soft voice based on nonlinear events: A preliminary study. Acta Acustica United With Acustica, 97:373-381. </p>
 
-<p style="text-align:justify">Popolo, P.S. and Titze, I.R. (2008). Qualification of a quantitative laryngeal imaging system using videostroboscopy and videokymography. Annals of Otology, Rhinology and Laryngology, 117:404-12. </p>
+<p style="text-align:justify">Popolo, P.S. and Titze, I.R. (2008). Qualification of a quantitative laryngeal imaging system using videostroboscopy and videokymography. Annals of Otology, Rhinology and Laryngology, 117:404-12. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2538379/" target="_blank"><b>Free PMC article</b></a></p>
 
 <p style="text-align:justify">Popolo, P.S., Svec, J.G. & Titze, I.R. (2005). Adaptation of a Pocket PC for use as a wearable voice dosimeter. Journal of Speech, Language and Hearing Research, 48:780-91. </p>
 
