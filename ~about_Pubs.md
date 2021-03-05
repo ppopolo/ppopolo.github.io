@@ -52,13 +52,13 @@
 
 <p style="text-align:justify">Titze, I.R., Riede, T. & Popolo, P.S. (2008). Nonlinear source-filter coupling in phonation: II. Vocal exercises. Journal of the Acoustical Society of America, 123: 1902–1915; <a href="https://doi.org/10.1121/1.2832339" target="_blank">https://doi.org/10.1121/1.2832339</a> </p>
 
-<p style="text-align:justify">Popolo, P.S., Svec, J.G. & Titze, I.R. (2005). Adaptation of a Pocket PC for use as a wearable voice dosimeter. Journal of Speech, Language and Hearing Research, 48:780-91. </p>
+<p style="text-align:justify"><a href="./PopoloSvecTitze_JSLHR2005.pdf" target="_blank">Popolo, P.S., Svec, J.G. & Titze, I.R. (2005). Adaptation of a Pocket PC for use as a wearable voice dosimeter.</a> Journal of Speech, Language and Hearing Research, 48:780-91. </p>
 
 <p style="text-align:justify">Svec, J.G., Titze, I.R. & Popolo, P.S. (2005). Estimation of sound pressure levels of voiced speech from skin vibration of the neck. Journal of the Acoustical Society of America, 117: 1386-94; <a href="https://doi.org/10.1121/1.1850074" target="_blank">https://doi.org/10.1121/1.1850074</a> </p>
 
 <p style="text-align:justify">Emerich, K.A., Titze, I.R., Svec, J.G., Popolo, P.S. & Logan, G. (2005). Vocal range and intensity in actors: a studio versus stage comparison. Journal of Voice,19:78-83. DOI: <a href="https://www.jvoice.org/article/S0892-1997(04)00126-2/fulltext" target="_blank">https://doi.org/10.1016/j.jvoice.2004.08.006</a></p>
 
-<p style="text-align:justify">Svec, J.G., Popolo, P.S. & Titze, I.R. (2003). Measurement of vocal doses in speech: experimental procedure and signal processing. Logoped Phoniatr Vocol, 28:181-92. </p>
+<p style="text-align:justify"><a href="./SvecPopoloTitze2003_LPV.pdf" target="_blank">Svec, J.G., Popolo, P.S. & Titze, I.R. (2003). Measurement of vocal doses in speech: experimental procedure and signal processing.</a> Logoped Phoniatr Vocol, 28:181-92. </p>
 
 <p style="text-align:justify">Titze, I.R., Svec, J.G. & Popolo, P.S. (2003). Vocal dose measures: quantifying accumulated vibration exposure in vocal fold tissues. Journal of Speech, Language and Hearing Research, 2003, 46:919-32. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3158591/" target="_blank"><b>Free PMC article</b></a></p>
 
