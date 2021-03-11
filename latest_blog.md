@@ -34,6 +34,8 @@
 
 <p><a href="./blog_5.html">Cardio-Vocal Syndrome and the Voice-Body Connection</a></p>
 
+<p><a href="./blog_6.html">A Little Voice Science For When You're Feeling Under the Weather</a></p>
+
 <a href="./latest_blog.html">Back to Top</a> 
 
 <small>&#169; 2021 Peter S. Popolo. All rights reserved.</small>
