@@ -30,6 +30,7 @@
 	<div class="prpl-column one-third">
 	
   			<img src="KayOTORHINO_2.png" alt="Midsaggital section of the head" width="1600"/>
+			<p style="text-align:right"><small></small></p>
 
 	</div>
 	<div class="prpl-column two-thirds">
