@@ -30,7 +30,7 @@
 	<div class="prpl-column one-third">
 	
 			<a href="https://youtu.be/IY5537gM1IU" target="_blank">
-			<img src="YouTubeStill.png" alt="Web Interview" width="1600"/></a>
+			<img src="YouTubeStill" alt="Web Interview" width="1600"/></a>
 			<p style="text-align:right"><small></small></p>
 
 	</div>
