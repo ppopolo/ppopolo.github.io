@@ -29,7 +29,8 @@
 	
 	<div class="prpl-column one-third">
 	
-			<iframe width="500" height="281" src="https://www.youtube.com/embed/IY5537gM1IU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<a href="https://apps.apple.com/us/app/myvoicelog/id1554362173" target="_blank">
+			<img src="AppStoreBadge_small.png" alt="Download on the App Store"></a>
 			<p style="text-align:right"><small></small></p>
 
 	</div>
