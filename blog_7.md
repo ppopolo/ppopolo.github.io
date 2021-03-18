@@ -41,7 +41,7 @@
 
 <div class="prpl-row">
 
-<p style="text-align:justify">Watch my recent interview with “Conversations with Calvin: WE the SpecIEs” in which I discussed how smartphone apps support evidence-based clinical practice and help users develop healthy habits (and possibly save lives!), the marketing aspects of custom-built apps for health practitioners, and I even got to demo Straw Phonation exercises (as advocated by my mentor Ingo Titze PhD) and talk about its amazing benefits for professional voice users like actors and singers.
+<p style="text-align:justify">Watch my recent interview with “Conversations with Calvin: WE the SpecIEs” in which I discussed how smartphone apps support evidence-based clinical practice and help users develop healthy habits (and possibly save lives!), the marketing aspects of custom-built apps for health practitioners, and I even got to demo Straw Phonation exercises (as advocated by my mentor Ingo Titze PhD) and talk about its amazing benefits for professional voice users like actors and singers. Click on the still image above to view on YouTube.
 </p>
 
 <p><a href="mailto:peterpopolo@gmail.com?subject=Contact">Contact</a> me today and let's turn YOUR app idea into reality in as little as 5 weeks!</p>
