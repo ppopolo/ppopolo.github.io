@@ -38,6 +38,8 @@
 
 <p><a href="./blog_7.html">Web Interview</a></p>
 
+<p><a href="./blog_8.html">The "1-9-90 Rule"</a></p>
+
 <a href="./latest_blog.html">Back to Top</a> 
 
 <small>&#169; 2021 Peter S. Popolo. All rights reserved.</small>
