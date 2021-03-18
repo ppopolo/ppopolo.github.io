@@ -36,7 +36,7 @@
 
 <p><a href="./blog_6.html">A Little Voice Science For When You're Feeling Under the Weather</a></p>
 
-<p><a href="./blog_7.html">The "1/9/90 Rule"</a></p>
+<p><a href="./blog_7.html">Web Interview</a></p>
 
 <a href="./latest_blog.html">Back to Top</a> 
 
