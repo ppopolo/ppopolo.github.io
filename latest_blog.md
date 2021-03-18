@@ -36,7 +36,7 @@
 
 <p><a href="./blog_6.html">A Little Voice Science For When You're Feeling Under the Weather</a></p>
 
-<p><a href="./blog_7.html">Web Interview</a></p>
+<p><a href="./blog_7.html">Web Interview: "Converstions with Calvin; WE the SpecIEs" </a></p>
 
 <p><a href="./blog_8.html">The "1-9-90 Rule"</a></p>
 
