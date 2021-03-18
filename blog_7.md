@@ -34,7 +34,7 @@
 
 	</div>
 	<div class="prpl-column two-thirds">
-			<h2>The "1/9/90 Rule"</h2>
+			<h2>Web Interview</h2>
 	</div>
 </div>
 
