@@ -40,6 +40,8 @@
 
 <p><a href="./blog_8.html">The "1-9-90 Rule"</a></p>
 
+<p><a href="./blog_9.html">From Straw Phonation to Resonant Voice</a></p>
+
 <a href="./latest_blog.html">Back to Top</a> 
 
 <small>&#169; 2021 Peter S. Popolo. All rights reserved.</small>
