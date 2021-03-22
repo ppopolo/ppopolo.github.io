@@ -30,7 +30,7 @@
 	<div class="prpl-column one-third">
 
 			<img src="psp_Straw Phonation.png" alt="Peter Straw Phonation" width="1600"/>
-			<p style="text-align:right"><small>From: Titze, I.R., "Principles of Voice Production", 2000</small></p>
+			<p style="text-align:right"><small>&#169; 2021 Peter S. Popolo</small></p>
 
 	</div>
 	<div class="prpl-column two-thirds">
