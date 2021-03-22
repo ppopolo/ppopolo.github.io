@@ -30,7 +30,7 @@
 	<div class="prpl-column one-third">
 
 			<img src="psp_Straw Phonation.png" alt="Peter Straw Phonation" width="1600"/>
-			<p style="text-align:right"><small></small></p>
+			<p style="text-align:right"><small>From: Titze, I.R., "Principles of Voice Production", 2000</small></p>
 
 	</div>
 	<div class="prpl-column two-thirds">
