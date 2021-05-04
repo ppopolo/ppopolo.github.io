@@ -42,6 +42,8 @@
 
 <p><a href="./blog_9.html">From Straw Phonation to Resonant Voice</a></p>
 
+<p><a href="./Mel_Spectrograms.html">A Jupypter Notebook Example</a></p>
+
 <a href="./latest_blog.html">Back to Top</a> 
 
 <small>&#169; 2021 Peter S. Popolo. All rights reserved.</small>
