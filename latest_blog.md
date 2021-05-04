@@ -42,7 +42,7 @@
 
 <p><a href="./blog_9.html">From Straw Phonation to Resonant Voice</a></p>
 
-<p><a href="./Mel_Spectrograms.html">Audio Processing in Python with Librosa: A Jupyter Notebook Example</a></p>
+<p><a href="./Mel_Spectrograms.html" target="_blank">Audio Processing in Python with Librosa: A Jupyter Notebook Example</a></p>
 
 <a href="./latest_blog.html">Back to Top</a> 
 
