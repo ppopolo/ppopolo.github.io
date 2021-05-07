@@ -42,8 +42,6 @@
 
 <p><a href="./blog_9.html">From Straw Phonation to Resonant Voice</a></p>
 
-<!---<p><a href="./Mel_Spectrograms.html" target="_blank">Audio Processing in Python with Librosa: A Jupyter Notebook Example</a></p>--->
-
 <a href="./latest_blog.html">Back to Top</a> 
 
 <small>&#169; 2021 Peter S. Popolo. All rights reserved.</small>
